@@ -1,0 +1,86 @@
+,Nombre,Provincia,Universidad,Lenguaje,Experiencia,Medio
+0,Saul Jimenez,Puntarenas,UAM,Scala,0,Periodico
+1,Hannia Vasquez,Cartago,TEC,C++,9,Otro
+2,Sofia Orozco,Heredia,UAM,Go,4,Amistad
+3,Samuel Mejia,Cartago,UH,C#,8,E-mail
+4,Edgar Porras,Cartago,UCR,C#,0,Otro
+5,Fabian Villalta,Limon,ULACIT,C#,1,E-mail
+6,Joel Camacho,Guanacaste,ULACIT,Python,6,Facebook
+7,Leonardo Alfaro,Limon,UNA,Ruby,0,Facebook
+8,Josue Lopez,Guanacaste,UNA,Ruby,5,E-mail
+9,Fiorella Chew,Heredia,TEC,VBasic,7,Volante
+10,Natasha Perez,Limon,UH,Assembly,6,Television
+11,Sebastian Cambronero,Cartago,UH,Assembly,3,E-mail
+12,Laura Garcia,Cartago,UNA,Swift,3,Otro
+13,Mauricio Tapia,Cartago,UAM,Java,10,Compania
+14,Hellen Escobedo,Puntarenas,UH,Scala,4,Facebook
+15,Alejandro Caamano,Heredia,ULACIT,C#,7,Facebook
+16,Ernesto Salas,Limon,UACA,Javascript,0,Television
+17,Nicolas Guevara,San Jose,UNA,C,7,Amistad
+18,Karina Montero,Puntarenas,ULACIT,PHP,5,Otro
+19,Gilberth Ramirez,San Jose,UNED,C#,3,Compania
+20,Desiree Carillo,Heredia,UH,Javascript,0,Instagram
+21,Armando Murillo,Alajuela,TEC,Swift,2,Television
+22,Cesar Amador,Puntarenas,UNED,PHP,10,Television
+23,Diego Fuentes,Puntarenas,UNA,C++,6,E-mail
+24,Guillermo Quintana,Alajuela,TEC,Java,8,E-mail
+25,Karol Coto,Puntarenas,UH,Assembly,5,E-mail
+26,Luis Desanti,Alajuela,TEC,Java,5,Facebook
+27,Jose Rivas,San Jose,TEC,Perl,3,E-mail
+28,Oscar Oviedo,Heredia,UH,Swift,3,Amistad
+29,Gerardo McDonald,Heredia,TEC,Ruby,2,E-mail
+30,Victoria Navarrete,Heredia,UAM,C++,6,Otro
+31,Tomas Martinez,Heredia,TEC,Go,7,Television
+32,Cynthia Soto,Guanacaste,UAM,Java,2,Otro
+33,Pedro Brown,Guanacaste,LATINA,C++,6,Otro
+34,Sonia Castro,San Jose,CATOLICA,Javascript,9,Volante
+35,Valeria Galindo,Alajuela,CATOLICA,C#,6,Television
+36,Melissa Cordero,Alajuela,UH,VBasic,5,Amistad
+37,Marco Flores,Limon,UNED,VBasic,5,E-mail
+38,Olivier Gutierrez,San Jose,UCR,C#,6,Amistad
+39,Paola Palacios,Puntarenas,LATINA,Javascript,10,Television
+40,Luis Gerardo Gomez,San Jose,UNED,Perl,4,Periodico
+41,Ricardo Ortiz,Cartago,UCR,Javascript,4,Periodico
+42,Roberto Vindas,Cartago,CATOLICA,Assembly,8,Volante
+43,Javier Espinoza,San Jose,LATINA,Java,9,Amistad
+44,Gary Rodriguez,Limon,UNED,C#,8,E-mail
+45,Erick Varela,Limon,TEC,C,8,Compania
+46,Jeremy Vito,San Jose,LATINA,Javascript,6,Television
+47,Carlos Reyes,San Jose,UAM,Go,7,E-mail
+48,Jairo Palmer,Guanacaste,TEC,C,4,E-mail
+49,Esteban Garro,Limon,TEC,C#,6,Facebook
+50,Isaias Hidalgo,Guanacaste,UAM,R,7,Compania
+51,Gary Medina,Guanacaste,ULACIT,Assembly,1,Periodico
+52,Enrique Piza,Puntarenas,UACA,Assembly,0,Volante
+53,Rafael Villegas,Puntarenas,UNA,Perl,1,Instagram
+54,Daniel Chacon,Cartago,FIDELITAS,Assembly,4,Volante
+55,Monserrat Delgado,Alajuela,UH,VBasic,8,Instagram
+56,Jefferson Morales,Heredia,FIDELITAS,Scala,2,Facebook
+57,Manuel Velazquez,Guanacaste,ULACIT,Javascript,3,Facebook
+58,Randy Segura,Alajuela,UH,VBasic,7,Facebook
+59,Alejandra Cespedes,Cartago,TEC,VBasic,2,E-mail
+60,Christopher Leon,Limon,CATOLICA,Swift,0,E-mail
+61,Moises Mata,Alajuela,LATINA,Scala,10,SMS
+62,Rafael Zamora,Heredia,UACA,Perl,5,Volante
+63,Maria Gomez,Alajuela,UH,VBasic,7,Otro
+64,Jorge Avila,San Jose,TEC,Java,6,Otro
+65,Fernando Herrera,Limon,UNA,C++,8,Amistad
+66,Hugo Venegas,Heredia,UNED,Perl,2,Periodico
+67,Raul Lizano,Limon,ULACIT,PHP,0,Volante
+68,Julio Martinez,San Jose,ULACIT,R,9,SMS
+69,Sandra Marin,Heredia,TEC,C#,4,Periodico
+70,Francisco Torres,Heredia,UNED,Assembly,3,E-mail
+71,Armando Chironi,Limon,UACA,Scala,0,Facebook
+72,Ana Padilla,Limon,UAM,PHP,0,Otro
+73,Miguel Valdes,Puntarenas,UNA,Swift,0,E-mail
+74,Abraham Sosa,Heredia,CATOLICA,Perl,2,Facebook
+75,Susana Barrera,Cartago,CATOLICA,Java,7,Otro
+76,Cristhian Gonzalez,Alajuela,ULACIT,R,6,Periodico
+77,Mario Hernandez,Alajuela,UAM,PHP,7,SMS
+78,Gloriana Salgado,Alajuela,UNED,Go,2,Amistad
+79,Joaquin Diaz,Cartago,TEC,Java,3,SMS
+80,Tobias Vargas,Limon,FIDELITAS,Perl,9,Television
+81,Gabriel Fumero,Heredia,TEC,PHP,0,Otro
+82,Marcos Villalobos,Cartago,UAM,Go,6,Compania
+83,Juan Baraquiso,Cartago,UAM,C#,0,Volante
+84,Pablo Oquendo,Cartago,UAM,VBasic,0,Otro
